@@ -29,9 +29,9 @@ Layout
 
 ### 💻 PROJETO
 
-O Happy é uma plataforma para localização de orfanatos e agendamento de visitas. O Happy foi pensado em homenagem ao Dia das Crianças, com o intuito de trazer mais amor e carinho para crianças que vivem em orfanatos. 💚
+O OriginSix é uma plataforma para divulgação de comercios. O OriginSix foi desenvolvido com o intuito de divulgar os estabelecimentos e os serviços que prestam.
 
-Este é um projeto desenvolvido durante a <a href="https://nextlevelweek.com/inscricao/3" rel="nofollow">Next Level Week</a> , realizada pela @Rocketseat durante os dias 12 a 18 de Outubro de 2020.<hr>
+Este é um projeto desenvolvido durante a <a href="https://nextlevelweek.com/inscricao/3" rel="nofollow">Next Level Week</a> , realizada pela @Rocketseat durante os dias 20 a 27 de Junho de 2021.<hr>
 
 ### 🔖 LAYOUT
 
@@ -43,7 +43,7 @@ Você pode visualizar o layout do projeto através dos links abaixo:
 
 Este repositório está sob licença MIT. Você pode ver o arquivo<a href="https://github.com/felipecastrosales/Happy/blob/master/LICENSE" rel="nofollow"> LICENSE </a>para mais detalhes. 😉
 <hr><br>
-💡 Lembrando que você precisa ter uma conta no <a href="https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web" rel="nofollow">Figma</a>  para acessá-lo.
+💡 Lembrando que você precisa ter uma conta no <a href="https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web" rel="nofollow">Figma</a>  para acessá-lo.<br><br>
 
           Desenvolvido com 💜 por Francielli Rodrigues
 
